@@ -1,0 +1,2 @@
+class TreatmentDermascopeImage < ApplicationRecord
+end

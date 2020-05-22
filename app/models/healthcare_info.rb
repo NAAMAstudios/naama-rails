@@ -1,0 +1,2 @@
+class HealthcareInfo < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class TreatmentGeneralImage < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class TreatmentSpectrometerImage < ApplicationRecord
+end

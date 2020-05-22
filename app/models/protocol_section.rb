@@ -1,0 +1,2 @@
+class ProtocolSection < ApplicationRecord
+end

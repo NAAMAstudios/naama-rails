@@ -1,0 +1,2 @@
+class LaserType < ApplicationRecord
+end
